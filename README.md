@@ -1,5 +1,5 @@
-# Adminator HTML5 Admin Template
-**Adminator** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets.
+# Animal Rescue Admin
+**Animal Rescue** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets.
 
 ### TOC
 - [Getting Started](#getting-started)
