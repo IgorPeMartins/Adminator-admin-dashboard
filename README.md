@@ -1,13 +1,5 @@
 # Adminator HTML5 Admin Template
-**Adminator** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/adminator/index.html
-
-# Preview
-
-### Screenshot
-
-![Adminator admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/adminator-free-admin-dashboard-template.jpg)
-
-### Demo Site: [Here](https://colorlib.com/polygon/adminator/index.html)
+**Adminator** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets.
 
 ### TOC
 - [Getting Started](#getting-started)
