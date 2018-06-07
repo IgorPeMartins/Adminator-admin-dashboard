@@ -1,5 +1,5 @@
 # Animal Rescue Admin
-**Animal Rescue** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets.
+**Animal Rescue Admin** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets.
 
 ### TOC
 - [Getting Started](#getting-started)
@@ -14,7 +14,7 @@
 
 
 ### Getting Started
-In order to run **Adminator** on your local machine all what you need to do is to have the prerequisites stated below installed on your machine and follow the installation steps down below.
+In order to run **Animal Rescue Admin** on your local machine all what you need to do is to have the prerequisites stated below installed on your machine and follow the installation steps down below.
 
 #### Prerequisites
   - Node.js
